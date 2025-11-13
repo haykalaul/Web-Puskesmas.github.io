@@ -8,7 +8,7 @@ Proyek ini adalah sebuah website statis yang dibuat untuk Puskesmas Balongbendo 
 * **Profil**: Informasi mengenai visi, misi, struktur organisasi, daftar pegawai, profil pimpinan, serta tugas dan fungsi puskesmas.
 * **Informasi**: Berisi pengumuman penting seperti jam pelayanan dan jadwal kegiatan.
 * **Layanan**: Daftar layanan yang tersedia di puskesmas, seperti UGD 24 jam, loket pendaftaran, pemeriksaan umum, kesehatan gigi dan mulut, kesehatan ibu dan anak, serta pelayanan KB dan imunisasi.
-* **Galeri**: Kumpulan foto kegiatan puskesmas.
+* **Galeri**: Kumpulan foto kegiatan puskesmas aktual. 
 * **Berita**: Berita terkini seputar puskesmas dan kesehatan.
 * **Kontak**: Informasi kontak, alamat, media sosial, dan nomor telepon penting.
 * **Kritik dan Saran**: Formulir untuk mengirimkan kritik dan saran kepada pihak puskesmas.
