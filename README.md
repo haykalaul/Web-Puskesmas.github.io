@@ -1,4 +1,4 @@
-# Website Puskesmas Desa Balongbendo Sidoarjo
+# Website Puskesmas Desa Balongbendo Kab. Sidoarjo
 
 Proyek ini adalah sebuah website statis yang dibuat untuk Puskesmas Balongbendo di Kabupaten Sidoarjo. Website ini bertujuan untuk memberikan informasi dan layanan kepada masyarakat secara online.
 
